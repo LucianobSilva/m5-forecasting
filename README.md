@@ -46,7 +46,7 @@ ARIMA: Combina regressão e médias móveis para capturar padrões de longo praz
 Prophet: Modelo aditivo desenvolvido pelo Facebook, que lida bem com efeitos sazonais.
 
 
-Divisão de Dados:
+Divisão de Dados::
 
 - Treino: Dados até os últimos 30 dias.
 Validação: Últimos 60 dias de vendas para validação das previsões.
